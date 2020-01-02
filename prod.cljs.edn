@@ -1,0 +1,6 @@
+{:main hp.core
+ :output-dir "resources/public/out"
+ :output-to "resources/public/main.js"
+ :infer-externs true
+ :optimizations :advanced
+ :fn-invoke-direct true}
